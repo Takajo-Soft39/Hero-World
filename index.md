@@ -6,4 +6,4 @@
 # RPGレンジャーショー
 RPGレンジャーと魔王の手先との戦いを応援しよう！！
 11:00~  15:00~
-![桜](ranger_hero_show.png)
+![桜](ranger_hero_show.png)  
