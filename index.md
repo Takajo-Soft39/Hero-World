@@ -8,4 +8,4 @@ RPGレンジャーと魔王の手先との戦いを応援しよう！！
 11:00~  15:00~
 ![桜](ranger_hero_show.png)  
 [MAP](https://takajo-soft22.github.io/attraction_map/)  
-[HOME](https://takajo-soft28.github.io/ParkHP/)
+[HOME](https://takajo-soft28.github.io/RPG/)
